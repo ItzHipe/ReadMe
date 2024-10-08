@@ -1,29 +1,22 @@
 <div align="center">
-  
-[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzHipe&show_icons=true&theme=discord_old_blurple&include_all_commits=True)](https://github.com/ItzHipe/github-readme-stats)
-
-</div>
  
-<div align="center">  
-    <a href="https://www.cprogramming.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-    </a>  
-    <a href="https://www.cplusplus.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />
-    </a>  
-    <a href="https://unity.com/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" />
-    </a>  
-    <a href="https://www.arduino.cc/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" />
-    </a>  
-    <a href="https://www.python.org/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-    </a>  
-    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
-        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-    </a>  
-</div>
+ <div align="justify">
+
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3200&pause=2000&color=87CEEB&center=true&vCenter=true&width=940&height=50&lines= Hello%2C++Welcome+to+my+Profile" align="middle" alt="Welcome to my profile.">
+
+  <hr>
+  <div align="center"></a>
+     
+[![Jay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ItzHipe&show_icons=true&theme=discord_old_blurple&include_all_commits=True)](https://github.com/ItzHipe/github-readme-stats)
+<hr>
+<h3><samp>Programming Languages</samp></h3>  
+  
+<a>![Languages](https://skillicons.dev/icons?i=c,cs,cpp,python,java,html&theme=dark)</a>
+
+<h3><samp>Softwares & Tools</samp></h3>  
+  
+<a>![Languages](https://skillicons.dev/icons?i=aws,blender,unity,notion,unreal,vscode,git,linux,gcp&theme=dark&perline=10)</a>
+<hr>
 
 
 <br/>  
