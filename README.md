@@ -2,7 +2,7 @@
  
  <div align="justify">
 
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3200&pause=2000&color=5865f2&center=true&vCenter=true&width=940&height=50&lines=Hello%2C+ Welcome+to+my+Profile" align="middle" alt="Hello, Welcome to my profile.">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=35&duration=3200&pause=2000&color=5865f2&center=true&vCenter=true&width=940&height=50&lines=Hello%2C+ Welcome+to+my+Profile+:)" align="middle" alt="Hello, Welcome to my profile :)">
 
   <hr>
 </div>
