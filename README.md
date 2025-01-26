@@ -22,7 +22,10 @@
 
 <br/>  
 <div align="center">
-
+ 
+## #30NitesOfCode:
+[Check out my progress!](https://www.codedex.io/@Hipe/30-nites-of-code)  
+![@Hipe #30NitesOfCode](https://www.codedex.io/api/petStatus?user=Hipe)
 ## Connect with me  
 
 </div>
@@ -37,4 +40,5 @@
 <a href="https://www.linkedin.com/in/jay-patil-562046285/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+
 
