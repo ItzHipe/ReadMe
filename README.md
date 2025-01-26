@@ -12,7 +12,7 @@
 <hr>
 <h3><samp>Programming Languages</samp></h3>  
   
-<a>![Languages](https://skillicons.dev/icons?i=c,cs,cpp,python,java,html&theme=dark)</a>
+<a>![Languages](https://skillicons.dev/icons?i=c,cs,cpp,python,java,html,css,js&theme=dark)</a>
 
 <h3><samp>Softwares & Tools</samp></h3>  
   
